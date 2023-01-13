@@ -1,6 +1,6 @@
-# install puppet-lint -v 2.5.
-package { 'puppet-lint':
-  ensure   => '2.5.0',
-  provider => 'gem',
-}
+# install flask from pip3
+package { 'flask' :
+    ensure   => '2.1.0',
+    provider => 'pip3',
+    }
 
