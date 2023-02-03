@@ -1,3 +1,2 @@
-# 0x13-firewall
-
-In this project, I learnt how to configure firewall to searvers.
+0x13-firewall
+Configuration settings to setup a firewall and allow specific port connections
